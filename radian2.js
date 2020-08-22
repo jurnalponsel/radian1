@@ -1,0 +1,1 @@
+var lang_inv = "Tidak terdefinisi!";var lang_inf = "Tidak terhingga!";var lang_infm = "Minus tidak terhinga!";var lang_exp = "<sub>pang</sub><sup>kat</sup>";var lang_sqrt = "akar";var lang_cbrt = "akar 3";var lang_error = "Mohon periksa penulisan!";
